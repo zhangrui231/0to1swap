@@ -9,6 +9,7 @@ https://github.com/move-language/move/tree/main/language/documentation/tutorial
 
 # move china builderdao
 https://move-china.com/movebook
+https://move-dao.github.io/move-book-zh/structs-and-resources.html
 
 # diem 官网
 https://developers.diem.com/docs/welcome-to-diem/
